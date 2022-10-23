@@ -1,0 +1,147 @@
+body{
+  background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/3478fadea178a4028be49e852203463e0e1a9f87/%D0%91%D0%BE%D0%B9%D1%86%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%BB%D1%8E%D0%B1.jpg');
+ height:4600px;
+} 
+
+/*(Пункт 2)*/
+div#parallax-bg-1{
+ position: fixed;
+ width: 1200px;
+ top: 0;
+ left: 50%; 
+ margin-left: -600px; 
+ z-index: 1;
+}
+
+div#parallax-bg-2{
+ position: fixed;
+ width: 1200px;
+ top: 0;
+ left: 50%; 
+ margin-left: -600px; 
+ z-index: 2;
+}
+
+div#parallax-bg-3{
+ position: fixed;
+ width: 960px;
+ top: 0;
+ left: 50%; 
+ margin-left: -470px; 
+ z-index: 3;
+}
+
+div#parallax-bg-3 div{
+ background-repeat:no-repeat;
+ position:absolute;
+ display:block;
+ overflow:hidden;
+}
+
+
+/*(Пункт 3)*/
+/*Тайлер*/
+div#bg-3-1{
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/3478fadea178a4028be49e852203463e0e1a9f87/%D0%A2%D0%B0%D0%B9%D0%BB%D0%B5%D1%80.png');
+ width:529px;
+ height:757px;
+ top:-100px;
+ right:100px;
+}
+/*Мыло*/
+div#bg-3-2{
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/3478fadea178a4028be49e852203463e0e1a9f87/%D0%9C%D1%8B%D0%BB%D0%BE.png');
+ width:603px;
+ height:583px;
+ top:1050px;
+ right:70px;
+}
+/*Сегорета*/
+div#bg-3-3{
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/3478fadea178a4028be49e852203463e0e1a9f87/%D0%A1%D0%B5%D0%B3%D0%BE%D1%80%D0%B5%D1%82%D0%B0.png');
+ width:446px;
+ height:713px;
+ top:1800px;
+ right:140px;
+}
+/*Мыло*/
+div#bg-3-4{
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/3478fadea178a4028be49e852203463e0e1a9f87/%D0%9C%D1%8B%D0%BB%D0%BE.png');
+ width:1104px;
+ height:684px;
+ top:2800px;
+ right:0px;
+}
+
+/*(Пункт 4)*/
+/*Картинка с летающим вопросом*/
+div#parallax-bg-2 div{
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/4c0c1ad521a0a197f2f3010d8fc5587942b2f364/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png');
+ background-repeat:no-repeat;
+ position:absolute;
+ display:block;
+ width:488px;
+ height:138px;
+ overflow:hidden;
+}
+
+div#bg-2-1{
+ top:100px;
+ left:-310px;
+}
+div#bg-2-2{
+ top:270px;
+ right:-70px;
+}
+div#bg-2-3{
+ top:870px;
+ left:-300px;
+}
+div#bg-2-4{
+ top:1120px;
+ right:-130px;
+}
+div#bg-2-5{
+ top:1620px;
+ left:140px;
+}
+div#bg-2-6{
+ top:720px;
+ left:340px;
+}
+
+/*(Пункт 5)*/
+/*Картинка с летающим вопросом*/
+div#parallax-bg-1 div{
+ background-repeat:no-repeat;
+ position:absolute;
+ display:block;
+ width:488px;
+ height:138px;
+ overflow:hidden;
+}
+div#bg-1-1{
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/4c0c1ad521a0a197f2f3010d8fc5587942b2f364/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png');
+ top:200px;
+ right:450px;
+}
+div#bg-1-2{
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/4c0c1ad521a0a197f2f3010d8fc5587942b2f364/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png');
+ top:420px;
+ left:0px;
+}
+div#bg-1-3{
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/4c0c1ad521a0a197f2f3010d8fc5587942b2f364/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png');
+ top:850px;
+ right:-290px;
+}
+div#bg-1-4{
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/4c0c1ad521a0a197f2f3010d8fc5587942b2f364/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png');
+ top:1350px;
+ left:200px;
+}
+div#bg-1-5{
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/4c0c1ad521a0a197f2f3010d8fc5587942b2f364/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png');
+ top:1200px;
+ left:-200px;
+}
