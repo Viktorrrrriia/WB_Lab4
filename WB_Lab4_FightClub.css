@@ -1,6 +1,6 @@
 body{
   background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/5498d6948355a6f10c21bfdcc0d9a9f189d99dec/Background_FC.jpg');
- height:4600px;
+ height:4000px;
 } 
 
 /*(Пункт 2)*/
@@ -51,16 +51,16 @@ div#bg-3-1{
 /*Вопрос*/
 div#bg-3-2{
  background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/bdae20186aa00d8f9ab9557edf154c89e9deccdd/Question.png');
- width:200px;
- height:323px;
+ width:100px;
+ height:100px;
  top:1050px;
  right:70px;
 }
 /*Сегорета*/
 div#bg-3-3{
  background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/07514593e6186064bde7ec7c7f18dec32e5bf359/Segoreta.png');
- width:200px;
- height:200px;
+ width:300px;
+ height:300px;
  top:1800px;
  right:140px;
 }
@@ -68,7 +68,7 @@ div#bg-3-3{
 div#bg-3-4{
  background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/bdae20186aa00d8f9ab9557edf154c89e9deccdd/Question.png');
  width:100px;
- height:162px;
+ height:100px;
  top:2800px;
  right:0px;
 }
@@ -80,8 +80,8 @@ div#parallax-bg-2 div{
  background-repeat:no-repeat;
  position:absolute;
  display:block;
- width:200px;
- height:200px;
+ width:100px;
+ height:100px;
  overflow:hidden;
 }
 
