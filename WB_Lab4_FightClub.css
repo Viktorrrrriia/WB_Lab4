@@ -58,17 +58,17 @@ div#bg-3-2{
 }
 /*Сегорета*/
 div#bg-3-3{
- background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/bdae20186aa00d8f9ab9557edf154c89e9deccdd/Segoreta.png');
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/07514593e6186064bde7ec7c7f18dec32e5bf359/Segoreta.png');
  width:500px;
- height:200px;
+ height:500px;
  top:1800px;
  right:140px;
 }
 /*Мыло*/
 div#bg-3-4{
  background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/329394fa33034252955361fd414e414bbd057ad0/soap.png');
- width:700px;
- height:700px;
+ width:500px;
+ height:500px;
  top:2800px;
  right:0px;
 }
@@ -116,8 +116,8 @@ div#parallax-bg-1 div{
  background-repeat:no-repeat;
  position:absolute;
  display:block;
- width:300px;
- height:485px;
+ width:200px;
+ height:200px;
  overflow:hidden;
 }
 div#bg-1-1{
