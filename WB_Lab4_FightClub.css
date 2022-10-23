@@ -48,11 +48,11 @@ div#bg-3-1{
  top:-100px;
  right:100px;
 }
-/*Мыло*/
+/*Вопрос*/
 div#bg-3-2{
- background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/329394fa33034252955361fd414e414bbd057ad0/soap.png');
- width:300px;
- height:300px;
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/bdae20186aa00d8f9ab9557edf154c89e9deccdd/Question.png');
+ width:200px;
+ height:323px;
  top:1050px;
  right:70px;
 }
@@ -64,24 +64,24 @@ div#bg-3-3{
  top:1800px;
  right:140px;
 }
-/*Мыло*/
+/*Вопрос*/
 div#bg-3-4{
- background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/329394fa33034252955361fd414e414bbd057ad0/soap.png');
- width:300px;
- height:300px;
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/bdae20186aa00d8f9ab9557edf154c89e9deccdd/Question.png');
+ width:100px;
+ height:162px;
  top:2800px;
  right:0px;
 }
 
 /*(Пункт 4)*/
-/*Картинка с летающим вопросом*/
+/*Мыло*/
 div#parallax-bg-2 div{
- background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/bdae20186aa00d8f9ab9557edf154c89e9deccdd/Question.png');
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/329394fa33034252955361fd414e414bbd057ad0/soap.png');
  background-repeat:no-repeat;
  position:absolute;
  display:block;
- width:100px;
- height:162px;
+ width:200px;
+ height:200px;
  overflow:hidden;
 }
 
@@ -111,37 +111,37 @@ div#bg-2-6{
 }
 
 /*(Пункт 5)*/
-/*Картинка с летающим вопросом*/
+/*Мыло и сигарета*/
 div#parallax-bg-1 div{
  background-repeat:no-repeat;
  position:absolute;
  display:block;
- width:100px;
- height:162px;
+ width:200px;
+ height:200px;
  overflow:hidden;
 }
 div#bg-1-1{
- background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/bdae20186aa00d8f9ab9557edf154c89e9deccdd/Question.png');
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/329394fa33034252955361fd414e414bbd057ad0/soap.png');
  top:200px;
  right:450px;
 }
 div#bg-1-2{
- background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/bdae20186aa00d8f9ab9557edf154c89e9deccdd/Question.png');
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/07514593e6186064bde7ec7c7f18dec32e5bf359/Segoreta.png');
  top:420px;
  left:0px;
 }
 div#bg-1-3{
- background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/bdae20186aa00d8f9ab9557edf154c89e9deccdd/Question.png');
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/329394fa33034252955361fd414e414bbd057ad0/soap.png');
  top:850px;
  right:-290px;
 }
 div#bg-1-4{
- background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/bdae20186aa00d8f9ab9557edf154c89e9deccdd/Question.png');
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/07514593e6186064bde7ec7c7f18dec32e5bf359/Segoreta.png');
  top:1350px;
  left:200px;
 }
 div#bg-1-5{
- background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/bdae20186aa00d8f9ab9557edf154c89e9deccdd/Question.png');
+ background:url('https://rawcdn.githack.com/Viktorrrrriia/WB_Lab4/07514593e6186064bde7ec7c7f18dec32e5bf359/Segoreta.png');
  top:1200px;
  left:-200px;
 }
